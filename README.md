@@ -1,4 +1,4 @@
-[![ExodeusOne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exodeusone)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exodeusone)](https://github.com/anuraghazra/github-readme-stats)
 
 [![jbonniva's 42 stats](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
 
