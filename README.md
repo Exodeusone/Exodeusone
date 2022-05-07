@@ -1,4 +1,6 @@
-### Hi there 👋
+[![jbonniva's 42 stats](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
+
+
 
 <!--
 **Exodeusone/Exodeusone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
