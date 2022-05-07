@@ -1,6 +1,6 @@
 [![jbonniva's 42 stats](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
 
-Libft         >[![jbonniva's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/project/2414812)](https://github.com/JaeSeoKim/badge42)
+Libft       >[![jbonniva's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/project/2414812)](https://github.com/JaeSeoKim/badge42)
 
 Born2BeRoot >  [![jbonniva's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/project/2424476)](https://github.com/JaeSeoKim/badge42)
 
