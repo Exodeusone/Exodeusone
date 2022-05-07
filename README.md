@@ -3,11 +3,13 @@
 Libft > [![jbonniva's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/project/2414812)](https://github.com/JaeSeoKim/badge42)
 
 Born2BeRoot > [![jbonniva's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/project/2424476)](https://github.com/JaeSeoKim/badge42)
+
 Printf > [![jbonniva's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/project/2429164)](https://github.com/JaeSeoKim/badge42)
 
 GetNextLine > [![jbonniva's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/project/2431625)](https://github.com/JaeSeoKim/badge42)
 
 Exam Rank 2 > [![jbonniva's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/project/2436236)](https://github.com/JaeSeoKim/badge42)
+
 So Long > [![jbonniva's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/project/2448423)](https://github.com/JaeSeoKim/badge42)
 
 Pipex > [![jbonniva's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2w0v3bd002109mdyqo8pwoi/project/2449956)](https://github.com/JaeSeoKim/badge42)
