@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=ExodeusOne"/>
 </p>
-<h3 align="center" style="color: #d2b48c; font-weight: 700; margin: 0.5rem 0;">
+<h1 align="center" style="color: #d2b48c; font-weight: 700; margin: 0.5rem 0;">
     Since 2020 a developer, since 1994 a passionate; I craft software with artisanal care, put the craft at the heart of the code, and thrive on complex architecture.
-</h3>
+</h1>
 <br/>
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
@@ -23,8 +23,16 @@
 <br/><br/>
 <div>
 	<ul style="text-align: left; display: inline-block; margin: 0; padding-left: 1.2rem;">
-		<li>🥐 From Paris ovens to code editors, I’m a former renowned head baker who retrained at 42. I completed the core curriculum in 8 months, then joined the 42 Paris campus as a developer.</li>
-		<li>💻 Rather than just using APIs, I chose to build them—so I moved to 42 Centrale, the group’s main engineering entity, where I grew into a lead developer through hands‑on delivery and mentoring.</li>
-		<li>🔨 Today, I’m working on 42next, crafting robust systems and developer experiences with the same artisanal care I once put into perfecting a sourdough: precise, repeatable, and made to scale.</li>
+		<li><h3>🥐 From Paris ovens to code editors, I’m a former renowned head baker who retrained at 42. I completed the core curriculum in 8 months, then joined the 42 Paris campus as a developer.</h3></li>
+		<li><h3>💻 Rather than just using APIs, I chose to build them—so I moved to 42 Centrale, the group’s main engineering entity, where I grew into a lead developer through hands‑on delivery and mentoring.</h3></li>
+		<li><h3>🔨 Today, I’m working on 42next, crafting robust systems and developer experiences with the same artisanal care I once put into perfecting a sourdough: precise, repeatable, and made to scale.</h3></li>
 	</ul>
 </div>
+<h3 align="center">
+	🚀 2k26 target > +1k contributions
+</h3>
+<p align="right">
+	<i>
+		You can find me on kite surf spot 🏄🪁
+	</i>	
+</p>
